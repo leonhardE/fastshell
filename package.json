@@ -1,13 +1,13 @@
 {
-  "name": "fastshell",
-  "title": "Fiercely quick and opinionated front-ends",
-  "author": "Hossein Karami",
-  "url": "https://HosseinKarami.github.io/fastshell",
-  "version": "1.0.5",
+  "name": "Front-End Boilerplate",
+  "title": "Customized FastShell front-end boilerplate by Hossein Karami",
+  "author": "leonhardE",
+  "url": "https://github.com/leonhardE/fastshell",
+  "version": "0.0.1",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "http://github.com/HosseinKarami/fastshell.git"
+    "url": "https://github.com/leonhardE/fastshell.git"
   },
   "devDependencies": {
     "browser-sync": "^2.11.1",
